@@ -1,21 +1,21 @@
 {
-  "name": "my_gulp_project",
+  "name": "Hangman",
   "version": "1.0.0",
-  "description": "Gulp 100 project.",
+  "description": "game hangman with gulp",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/h5c3j/my_gulp_project.git"
+    "url": "git+https://github.com/mlabuda2/Hangman"
   },
-  "author": "",
+  "author": "Mati Labuda",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/h5c3j/my_gulp_project/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/h5c3j/my_gulp_project#readme",
+  "homepage": "https://github.com/mlabuda2",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-jshint": "^2.0.4",
